@@ -11,28 +11,28 @@
 			target="_blank"
 			class="flex h-10 w-10 rounded-full justify-center items-center my-auto bg-lime-600"
 		>
-			<img class="h-8 w-8" src="./img/facebook.svg" />
+			<img class="h-8 w-8" src="./img/facebook.svg" alt="facebook"/>
 		</a>
 		<a
 			href="https://www.instagram.com/fermento.mq"
 			target="_blank"
 			class="flex h-10 w-10 rounded-full justify-center items-center my-auto bg-lime-600"
 		>
-			<img class="h-8 w-8" src="./img/instagram.svg" />
+			<img class="h-8 w-8" src="./img/instagram.svg" alt="instagram"/>
 		</a>
 		<a
 			href="mailto:info@fermento.mq"
 			target="_blank"
 			class="flex h-10 w-10 rounded-full justify-center items-center my-auto bg-lime-600"
 		>
-			<img class="h-8 w-8" src="./img/email.svg" />
+			<img class="h-8 w-8" src="./img/email.svg" alt="e-mail"/>
 		</a>
 		<a
 			href="tel:+596696160736"
 			target="_blank"
 			class="flex h-10 w-10 rounded-full justify-center items-center my-auto bg-lime-600"
 		>
-			<img class="h-8 w-8" src="./img/phone.svg" />
+			<img class="h-8 w-8" src="./img/phone.svg" alt="phone"/>
 		</a>
 	</div>
 </div>
